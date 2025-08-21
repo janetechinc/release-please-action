@@ -29,7 +29,7 @@
   "homepage": "https://github.com/googleapis/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "release-please": "github:janetechinc/release-please#c3790d8ca24261bb73025a3440b331c3040743fe"
+    "release-please": "github:janetechinc/release-please#a58609bbfa152c55b875ca00502cb640b056aa95"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
